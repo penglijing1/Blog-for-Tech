@@ -11,5 +11,3 @@ https://www.jianshu.com/p/f690203ff168
 
 3. 深入go部分的内容
 https://tiancaiamao.gitbooks.io/go-internals/content/zh/03.4.html
-
-
